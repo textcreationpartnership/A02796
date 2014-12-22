@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A watch-word to all religious, and true hearted English-men. By Sir Francis Hastings, knightHastings
+
+1. To the Christian Reader.
+
 #####Body#####
-A watch-word to all religious, and true hearted English-men. By Sir Francis Hastings, knightHastings
+
+1. A VVatch-word to all religious, and true hearted Engliſh-men.
+
 **Types of content**
 
   * There are 11 **verse** lines!
